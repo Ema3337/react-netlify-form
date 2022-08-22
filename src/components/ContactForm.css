@@ -1,0 +1,13 @@
+.contact {
+    max-width: 900px;
+    margin: 0 auto;
+}
+.contenu_form {
+    display: flex;
+    flex-direction: column;
+}
+.mybut {
+font-size: 20px;
+background-color: rgb(1, 44, 1);
+color: rgb(255, 255, 255);
+}
