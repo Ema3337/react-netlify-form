@@ -1,13 +1,24 @@
 .contact {
-    max-width: 900px;
+    max-width: 350px;
     margin: 0 auto;
 }
-.contenu_form {
+.contact_form {
     display: flex;
     flex-direction: column;
+    margin-left: 15px;
+    font-size: 17px;
 }
-.mybut {
-font-size: 20px;
-background-color: rgb(1, 44, 1);
-color: rgb(255, 255, 255);
+ .mybut{
+    font-weight: bold;
+    font-size: 22px;
+     text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 40%;
+    width: 140px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: rgb(1, 43, 1);
+    color: aliceblue;
+    border-radius: 10px 10px 6px 6px;
 }
